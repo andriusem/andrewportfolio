@@ -24,7 +24,9 @@
 }
 
 .landing-page-description {
-    color: white; /* Replace with the color you want */
+    color: white;
+	font-size: 24px;
+	font-style: bold; /* Replace with the color you want */
 }
 
 
